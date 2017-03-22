@@ -1,0 +1,1 @@
+function aa(){console.log(222222)}window.alert(111111),console.log(1111111),aa();
